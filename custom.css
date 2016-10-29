@@ -1,0 +1,9 @@
+#test {
+	border-radius:26px;
+	border: none;
+}
+
+#test:hover #test:active #test:focus {
+	background: #16e58a;
+	border: none;
+}
